@@ -1,16 +1,10 @@
 ---
 layout: default
-title: Welcome
+title: Bio
 nav_order: 1
 permalink: /
 ---
 
-Welcome to the IIIT Theory Group
-================================
+<img align="right" src="01.jpg" width="230" height="200" left-padding="200px">
 
-We are just a bunch of people who are fascinated about science and technology, and want to learn the theoretical roots behind it.
-Our primary mode of discussions is the Discord Server. Ask a moderator or a batchmate for an invite!
-
-<img align="right" src="01.jpg">
-
-We started out as a small group, consisting of about 10 people who explored a couple of topics in weekly meets. Within a few years the group expanded and now we have over 50 active members and 150 verified users! At first glance the server might seem too daunting, but fear not! We are all very welcoming people who are more than happy to have more theory enthusiasts join us in our pursuit of knowledge and understanding! 
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
