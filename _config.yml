@@ -6,8 +6,8 @@ remote_theme: pmarsceill/just-the-docs
 # just-the-docs options
 # Aux links for the upper right navigation
 aux_links:
-  "View source on GitHub":
-    - "//github.com/nellorebhanuteja/nellorebhanuteja.github.io"
+  # "View source on GitHub":
+  #   - "//github.com/nellorebhanuteja/nellorebhanuteja.github.io"
   "LinkedIn":
     - "https://www.linkedin.com/in/bhanu-teja-nellore-b9b729165/?originalSubdomain=in"
   "Google Scholar":
