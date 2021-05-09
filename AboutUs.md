@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Our Team
-nav_order: 50
+nav_exclude: true
 permalink: /Team
 ---
 
