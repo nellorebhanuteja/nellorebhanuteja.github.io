@@ -12,5 +12,5 @@ permalink: /
 
 Hi,
 
-I am Bhanu Teja, working as Data Scientist is Jio AICoE, Hyderabad. 
+I am Bhanu Teja, working as Data Scientist in Jio AICoE, Hyderabad. 
 
