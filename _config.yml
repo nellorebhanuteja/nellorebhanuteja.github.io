@@ -7,5 +7,5 @@ remote_theme: pmarsceill/just-the-docs
 # Aux links for the upper right navigation
 aux_links:
   "View source on GitHub":
-    - "//github.com/nellorebhanuteja/bhanuteja.github.io"
+    - "//github.com/nellorebhanuteja/nellorebhanuteja.github.io"
 aux_links_new_tab: true
