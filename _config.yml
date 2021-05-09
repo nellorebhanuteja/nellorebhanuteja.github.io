@@ -9,3 +9,5 @@ aux_links:
   "View source on GitHub":
     - "//github.com/nellorebhanuteja/bhanuteja.github.io"
 aux_links_new_tab: true
+
+theme: jekyll-theme-midnight
