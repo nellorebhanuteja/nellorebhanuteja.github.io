@@ -1,0 +1,21 @@
+// Fix incorrect width
+.side-bar {
+  @include mq(lg) {
+    width: unset !important;
+  }
+}
+
+.main {
+  @include mq(lg) {
+    margin-left: $nav-width !important;
+    max-width: unset !important;
+  }
+}
+
+// Proper styles for spoilers
+.custom-spoiler {
+  @extend .bg-grey-lt-000;
+  border-radius: 5px;
+  border: 1px solid $grey-lt-300;
+  padding-left: 1%;
+}
