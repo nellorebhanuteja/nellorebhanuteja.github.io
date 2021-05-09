@@ -8,4 +8,9 @@ remote_theme: pmarsceill/just-the-docs
 aux_links:
   "View source on GitHub":
     - "//github.com/nellorebhanuteja/nellorebhanuteja.github.io"
+  "LinkedIn":
+    - "https://www.linkedin.com/in/bhanu-teja-nellore-b9b729165/?originalSubdomain=in"
+  "Google Scholar":
+    - "https://scholar.google.co.in/citations?user=NCXdaIEAAAAJ&hl=en"
+    
 aux_links_new_tab: true
