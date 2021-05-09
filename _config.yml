@@ -1,11 +1,3 @@
 title: "Bhanu Teja Website"
 markdown: CommonMarkGhPages
 remote_theme: pmarsceill/just-the-docs
-
-
-# just-the-docs options
-# Aux links for the upper right navigation
-aux_links:
-  "View source on GitHub":
-    - "//github.com/nellorebhanuteja/nellorebhanuteja.github.io"
-aux_links_new_tab: true
