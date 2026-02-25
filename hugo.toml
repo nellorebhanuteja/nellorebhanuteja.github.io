@@ -1,0 +1,11 @@
+baseURL = 'https://nellorebhanuteja.github.io/'
+languageCode = 'en-us'
+title = 'Bhanu Teja Nellore'
+
+[params]
+BookSection = 'docs'
+BookSearch = false
+
+[module]
+[[module.imports]]
+path = 'github.com/alex-shpak/hugo-book'
