@@ -1,14 +1,14 @@
 {
   "name": "Bhanu Teja Nellore",
   "short_name": "Bhanu Teja Nellore",
-  "start_url": "/my-cv-site/",
-  "scope": "/my-cv-site/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/my-cv-site/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "512x512"
     }
   ]
