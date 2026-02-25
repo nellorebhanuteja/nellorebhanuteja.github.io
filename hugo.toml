@@ -1,5 +1,6 @@
 baseURL = 'https://nellorebhanuteja.github.io/my-cv-site/'
 languageCode = 'en-us'
+relativeURLs = true
 title = 'Bhanu Teja Nellore'
 
 [params]
