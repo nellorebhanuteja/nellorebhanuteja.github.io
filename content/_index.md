@@ -33,4 +33,4 @@ Total YoE: 5 years
 </p>
 
 ---
-[Download CV (PDF)](bhanu_teja_june_2025.pdf)
+[Download CV (PDF)](/bhanu_teja_june_2025.pdf)
